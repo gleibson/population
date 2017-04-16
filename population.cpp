@@ -5,16 +5,17 @@
 
 int main()
 {
-	long long world_population;
-	long long usa_population;
+	long double world_population;
+	long double usa_population;
 	
+
 	std::cout << "Enter the world's population: " << std::endl;
 	std::cin >> world_population;
 	std::cout << "Enter the population of the US: " << std::endl;
 	std::cin >> usa_population;
 
 
-	long long percent = usa_population * 100;
+	long double percent = usa_population * 100;
 	long double usa_population_percent = percent / world_population;
 
 
