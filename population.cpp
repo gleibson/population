@@ -19,7 +19,7 @@ int main()
 	long double usa_population_percent = percent / world_population;
 
 
-	std::cout << "The population of the Usa is " << usa_population_percent << "% of the world population." << std::endl;
+	std::cout << "The population of the USA is " << usa_population_percent << "% of the world population." << std::endl;
 
 	return 0;
 
