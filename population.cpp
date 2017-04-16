@@ -11,7 +11,7 @@ int main()
 
 	std::cout << "Enter the world's population: " << std::endl;
 	std::cin >> world_population;
-	std::cout << "Enter the population of the US: " << std::endl;
+	std::cout << "Enter the population of the USA: " << std::endl;
 	std::cin >> usa_population;
 
 
